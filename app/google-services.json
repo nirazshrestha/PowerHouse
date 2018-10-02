@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299211262136",
+    "firebase_url": "https://powerhouse-277b6.firebaseio.com",
+    "project_id": "powerhouse-277b6",
+    "storage_bucket": "powerhouse-277b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299211262136:android:e8d9a31efbbfe28b",
+        "android_client_info": {
+          "package_name": "powerhouse.tygo.com.powerhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299211262136-4pegt65evjl58ptbe1leqp8bibpo026o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "powerhouse.tygo.com.powerhouse",
+            "certificate_hash": "4b95d9342e9ff23f96e5c2d42890dfa2ac7e173f"
+          }
+        },
+        {
+          "client_id": "299211262136-m18n8li9pfd15ndjf0pbhvpobvdihl44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoPEyYJmR2woBOq-wnByyRdN8j_XEj9k8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299211262136-m18n8li9pfd15ndjf0pbhvpobvdihl44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
